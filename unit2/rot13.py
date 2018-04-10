@@ -3,7 +3,7 @@ import cgi
 
 form = """
 <form method="post">
-    <h2>Welcome to New Rot 13. Please enter the text below:</h2>
+    <h2>Welcome to Rot 13. Please enter the text below:</h2>
     <br>
     <textarea name="text" cols="80" rows="20" >%(q)s</textarea>
     <br>
