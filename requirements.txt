@@ -1,0 +1,4 @@
+certifi==2018.1.18
+webapp2==2.5.2
+WebOb==1.8.0
+wincertstore==0.2
